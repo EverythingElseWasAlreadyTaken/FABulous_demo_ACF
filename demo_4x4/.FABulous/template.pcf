@@ -1,0 +1,8 @@
+set_io Tile_X0Y1_A Tile_X0Y1.A
+set_io Tile_X0Y1_B Tile_X0Y1.B
+set_io Tile_X0Y2_A Tile_X0Y2.A
+set_io Tile_X0Y2_B Tile_X0Y2.B
+set_io Tile_X0Y3_A Tile_X0Y3.A
+set_io Tile_X0Y3_B Tile_X0Y3.B
+set_io Tile_X0Y4_A Tile_X0Y4.A
+set_io Tile_X0Y4_B Tile_X0Y4.B
