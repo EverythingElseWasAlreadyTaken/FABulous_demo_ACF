@@ -1,0 +1,3 @@
+[submodule "FABulous"]
+	path = FABulous
+	url = git@github.com:FPGA-Research/FABulous.git
